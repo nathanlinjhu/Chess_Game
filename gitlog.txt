@@ -1,0 +1,252 @@
+commit 201ecc83dff84ce237a2ba39d065be9221ae61e0
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Sat Apr 25 22:02:48 2026 -0400
+
+    Created gitlog and now getting ready to submit
+
+commit 78756cbfd95faab843411902d9063a9a651f1a2f
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Sat Apr 25 21:38:47 2026 -0400
+
+    Handled exceptions and looked through files for errors
+
+commit 934f248d778fc456bb967450d82df94d11b79b02
+Author: maxgao12 <naxgao123456@gmail.com>
+Date:   Fri Apr 24 14:43:16 2026 -0400
+
+    dislay assignment fix
+
+commit 577d8c7fe5bc702d63a998ac68d2e504e37dc3a0
+Author: maxgao12 <naxgao123456@gmail.com>
+Date:   Fri Apr 24 14:30:08 2026 -0400
+
+    added deep copy to in_stalemate
+
+commit d1b8118a9535bf5252fbe5bd6d254a0c13316a40
+Author: maxgao12 <naxgao123456@gmail.com>
+Date:   Fri Apr 24 14:25:51 2026 -0400
+
+    change logic for game.ccp move and board (using deep copy now)
+
+commit ce505dc6b5fbe254c81d514e6f8537505e58da3d
+Author: maxgao12 <naxgao123456@gmail.com>
+Date:   Fri Apr 24 14:20:26 2026 -0400
+
+    change logic for game.ccp move and board (using deep copy now)
+
+commit df2f9dc3099cee87928d4d67e894e6e9f54baf0f
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Fri Apr 24 14:20:28 2026 -0400
+
+    doing this to pull
+
+commit fc7b4b89fa617a27d64b9a682ed2da7e7e55a943
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Fri Apr 24 14:17:27 2026 -0400
+
+    edits to stalemate
+
+commit ea84881187aa9a5b06163db977958b25a0e7d32d
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Fri Apr 24 14:10:37 2026 -0400
+
+    implemented in_stalement and added comments
+
+commit 7db59a740e58d3fe29401b2fc2a72f9eb2394488
+Author: maxgao12 <naxgao123456@gmail.com>
+Date:   Fri Apr 24 12:17:19 2026 -0400
+
+    fixed some bugs +added some exceptions on game .ccp
+
+commit dd77de3f3f1220136311c9f8838d7ef4b371a78a
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Fri Apr 24 00:32:37 2026 -0400
+
+    Implemented in_mate function
+
+commit e9a7b2b0245cdd119cce65a3894f29c1654d5941
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Thu Apr 23 20:11:34 2026 -0400
+
+    made edits to make_move and verified in_check
+
+commit 336f3e8eed07ddd04d916456812274c79c5a0750
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Thu Apr 23 19:52:37 2026 -0400
+
+    edits to make move (correct the exceptions thrown)
+
+commit 01c432b3fa5bb9f420b06f6c9838c0237118eb96
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Thu Apr 23 19:41:49 2026 -0400
+
+    edits to README
+
+commit 203d90b69cd8e954f41bfe0e92ed5c3fa1c0a1fd
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Thu Apr 23 14:47:05 2026 -0400
+
+    Implemented promotion logic into make_move and fully implemented in_check
+
+commit b5312fb164a92bb0bccc48f90f5a60cab437a86f
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Thu Apr 23 00:38:20 2026 -0400
+
+    started on in_check function
+
+commit 531c2f4f71af884de4f95ed3b530f6164a5e2f1f
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Wed Apr 22 23:38:24 2026 -0400
+
+    Implemented make_move, also made Game a friend class of Board so that I could use occ and make my life easier
+
+commit 784f69867f46aaa6b2eb1e6b47ab335cddbb1f64
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Wed Apr 22 22:32:32 2026 -0400
+
+    Doing this so I can git pull
+
+commit 74e9fa96b2ba65e61c4a775a450feb5646e9e161
+Merge: b27333b 0f2270b
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Wed Apr 22 19:24:10 2026 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-final-syu99-nlin18-xgao59
+
+commit b27333b539f21050f054fc016155890450a6c638
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Wed Apr 22 19:23:00 2026 -0400
+
+    implemented is_path_clear helper function
+
+commit 0f2270bf99e157b6ce789a0f41e52e1429c76713
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Wed Apr 22 15:11:35 2026 -0400
+
+    Mades edits to make_move
+
+commit b9d6e9ef2eee4d147c1f1193506e9cbfa6e45743
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Wed Apr 22 13:46:04 2026 -0400
+
+    Cleaned .o files for everyone to pull
+
+commit 57b1bc17a7eed209b481c72682e930904ad04c49
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Apr 21 23:40:06 2026 -0400
+
+    implemented point_value function
+
+commit 15d167712485b9f3ec83c1b2f6b4a8a322d228de
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Apr 21 23:18:05 2026 -0400
+
+    completed rook peice
+
+commit 227f4a2fbdbc53a888ef18672aebf77a06aa72cc
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Apr 21 23:16:40 2026 -0400
+
+    completed bishop peice
+
+commit f83f2c40235a0640a18be3c281a0040eacfcf36c
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Apr 21 23:14:47 2026 -0400
+
+    added cmath to queen
+
+commit 8db18a99c4ce621e58b395f1eaa5ddaa05a6c215
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Apr 21 23:14:03 2026 -0400
+
+    edits to the Queen
+
+commit cc2c28fe2ed6ffc4db943dc782604d286f0b2be7
+Author: maxgao12 <naxgao123456@gmail.com>
+Date:   Tue Apr 21 14:50:41 2026 -0400
+
+    game operator
+
+commit 670ff43d367d0ed953c8d24eaa00b8b84542e062
+Author: maxgao12 <naxgao123456@gmail.com>
+Date:   Tue Apr 21 14:14:56 2026 -0400
+
+    added board print implementation
+
+commit f140fad7e24d08020e67b82059594283103f93fa
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Apr 21 00:47:47 2026 -0400
+
+    edits to bishop and queen
+
+commit a902a2503d98ab9209b03c838e989ca8e7b05bbf
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Mon Apr 20 21:25:58 2026 -0400
+
+    Implemented King.cpp
+
+commit 06fe73c8910d34e7fd76031b04e818806491e80c
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Mon Apr 20 21:11:24 2026 -0400
+
+    Made Pawn.cpp
+
+commit d1ca0912bfef79e63f69efb6d869afb56631cb3c
+Author: maxgao12 <naxgao123456@gmail.com>
+Date:   Mon Apr 20 20:53:10 2026 -0400
+
+    some function implkementation 4 board
+
+commit 3503be52bcd43b891a6d6d3b6e92aa2260225f97
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Mon Apr 20 20:44:44 2026 -0400
+
+    doing this so i can git pull
+
+commit f7455e8a1e08168ec2ddef59a9ae0bebd0f5b8da
+Author: maxgao12 <naxgao123456@gmail.com>
+Date:   Mon Apr 20 14:44:05 2026 -0400
+
+    board.h bug fixes
+
+commit 82b2e0bf07a8e6bbea1a068e7f3c50a4dbe4cc0a
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Mon Apr 20 14:37:12 2026 -0400
+
+    Created the Knight piece with legal_move_shape
+
+commit 94193a07bca5c068e6d3877e1a481d27ef09b14d
+Author: maxgao12 <naxgao123456@gmail.com>
+Date:   Mon Apr 20 14:36:21 2026 -0400
+
+    board.h implementation for board iterator class
+
+commit ae0b806f469bf08c845fc25e3da1bbe0b1b24ccf
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Fri Apr 17 14:11:15 2026 -0400
+
+    Finalized README
+
+commit fe9a1a84b1c1acebf3383c39975a5e10e0406cc1
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Wed Apr 15 14:26:12 2026 -0400
+
+    update to README
+
+commit 356562c763dcd10c5c7b665e856edb09a078b462
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Wed Apr 15 14:25:05 2026 -0400
+
+    team talked about the readme file
+
+commit d0d9f48b4d25d2583111cbb1e086c09cb4352a78
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Wed Apr 15 14:18:18 2026 -0400
+
+    readme created
+
+commit c8490fb75f2027412f0ba9af8d1cb777bdafc1ba
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Wed Apr 15 13:51:17 2026 -0400
+
+    initialized with starter files
