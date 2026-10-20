@@ -24,3 +24,4 @@
 | 20 | Valgrind pass and memory leak fixes                                 | 3 | All implementation | All | Apr 26 | Completed
 | 21 | Code style cleanup (comments, header guards, no using in headers)   | 1 | All implementation | All | Apr 26 | Completed
 
+Collaborated with Simon Yu on Intermediate Midterm Project
